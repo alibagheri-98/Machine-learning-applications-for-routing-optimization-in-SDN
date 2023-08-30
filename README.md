@@ -1,0 +1,2 @@
+# Machine-learning-applications-for-routing-optimization-in-SDN
+Within this repository, you will find my final project file for the course Advanced Data Networks, which was instructed by Dr. Pakravan during the spring of 2022. For this project, I extensively reviewed over 50 research papers concerning the utilization of AI in routing within SDN. Subsequently, I synthesized and incorporated these findings to compose a comprehensive survey paper.
